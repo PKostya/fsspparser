@@ -1,0 +1,402 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/images/icons/favicons/fav_logo.ico?5" />
+
+<link rel="apple-touch-icon" href="/images/safari_60.png?1">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/safari_76.png?1">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/safari_120.png?1">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/safari_152.png?1">
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content="Demon Vudu. Log in or sign up to contact Demon Vudu or find more of your friends." />
+
+
+<title>Demon Vudu | VK</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
+
+  <link rel="stylesheet" type="text/css" href="/css/al/fonts_cnt.css?2696088870" />
+  <link rel="stylesheet" type="text/css" href="/css/al/common.css?1541058153" />
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: 0,
+  intnat: '1' ? true : false,
+  host: 'vk.com',
+  lang: 3,
+  rtl: parseInt('') || 0,
+  version: 823235649640,
+  stDomains: 0,
+  zero: false,
+  contlen: 9619,
+  loginscheme: 'https',
+  ip_h: 'cd0447d7391f55d759',
+  vc_h: '55b74091fde6a972cd912d9cd9f65a3a',
+  navPrefix: '/',
+  dt: parseInt('0') || 0,
+  fs: parseInt('13') || 13,
+  ts: 1486447309,
+  tz: 10800,
+  pd: 0,
+  pads: 1,
+  css_dir: '',
+  vcost: 7,
+  time: [2017, 2, 7, 9, 1, 49],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: '',
+  audioAdsConfig: {"_":"_"},
+  isLongViewEnabled: false,
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+
+  tnsPixelType: 'unauth'
+};
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}
+
+var StaticFiles = {
+  'common.js' : {v: 1139},
+  'fonts_cnt.css' : {v: 2696088870},
+'common.css': {v: 1541058153}
+  ,'lang3_0.js':{v:3694},'ui_common.css':{v:1997027190},'ui_common.js':{v:3299179389},'profile.css':{v:3689075215},'page.css':{v:232424622},'profile.js':{v:3061689951},'page.js':{v:2908697370},'emoji.js':{v:709426958},'post.css':{v:1944218596},'module.css':{v:4034981896},'audioplayer.js':{v:1723064862}
+}
+var abp;
+</script>
+
+<link type="text/css" rel="stylesheet" href="/css/al/ui_common.css?1997027190"></link><link type="text/css" rel="stylesheet" href="/css/al/profile.css?3689075215"></link><link type="text/css" rel="stylesheet" href="/css/al/page.css?232424622"></link><link type="text/css" rel="stylesheet" href="/css/al/post.css?1944218596"></link><link type="text/css" rel="stylesheet" href="/css/al/module.css?4034981896"></link><script type="text/javascript" src="/js/loader_nav823235649640_3.js"></script><script type="text/javascript" src="/js/al/common.js?1139_938811825"></script><script type="text/javascript" src="/js/lang3_0.js?3694"></script><script type="text/javascript" src="/js/lib/px.js?ch=1"></script><script type="text/javascript" src="/js/lib/px.js?ch=2"></script><link rel="meta" type="application/rdf+xml" title="FOAF" href="/foaf.php?id=408323065" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vk.com/vo0d0os" /><link rel="alternate" href="android-app://com.vkontakte.android/vkontakte/m.vk.com/vo0d0os" /><script type="text/javascript" src="/js/al/ui_common.js?3299179389"></script><script type="text/javascript" src="/js/al/profile.js?3061689951"></script><script type="text/javascript" src="/js/al/page.js?2908697370"></script><script type="text/javascript" src="/js/al/emoji.js?709426958"></script><script type="text/javascript" src="/js/al/audioplayer.js?1723064862"></script>
+
+</head>
+
+<body onresize="onBodyResize()" class="firefox ">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+
+  <div id="layer_bg" class="fixed"></div><div id="layer_wrap" class="scroll_fix_wrap fixed layer_wrap"><div id="layer"></div></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left"></div><div id="stl_side"></div>
+
+  <script type="text/javascript">domStarted();</script>
+
+  <div class="scroll_fix_wrap _page_wrap" id="page_wrap"><div><div class="scroll_fix">
+
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap">
+      <a class="top_back_link" href="" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)"></a>
+      <div id="page_header" class="p_head1 p_head_l3" style="width: 960px">
+        <div class="content">
+          <div id="top_nav" class="head_nav">
+  <div class="head_nav_item fl_l"><a class="top_home_link fl_l " href="/" aria-label="Home" accesskey="1"><div class="top_home_logo"></div></a></div>
+  <div class="head_nav_item fl_l"><div id="ts_wrap" class="ts_wrap" onmouseover="TopSearch.initFriendsList();">
+  <input name="disable-autofill" style="display: none;" />
+  <input type="text" onmousedown="event.cancelBubble = true;" ontouchstart="event.cancelBubble = true;" class="text ts_input" id="ts_input" autocomplete="off" name="disable-autofill" placeholder="Search" aria-label="Search" />
+</div></div>
+  <div class="head_nav_item fl_l head_nav_btns"><span id="top_audio_layer_place"></span></div>
+  <div class="head_nav_item fl_r"><a class="top_nav_link" href="" id="top_switch_lang" style="display: none;" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '' }); return false;" onmousedown="tnActive(this)">
+  Switch to English
+</a><a class="top_nav_link" href="/join" id="top_reg_link" style="" onclick="return !showBox('join.php', {act: 'box', from: nav.strLoc}, {}, event)" onmousedown="tnActive(this)">
+  sign up
+</a></div>
+  <div class="head_nav_item_player"></div>
+</div>
+<div id="ts_cont_wrap" class="ts_cont_wrap" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page_layout" style="width: 960px;">
+    <div id="side_bar" class="fl_l " style="">
+      <div id="side_bar_inner" class="side_bar_inner">
+        <div id="quick_login" class="quick_login">
+  <form method="POST" name="login" id="quick_login_form" action="https://login.vk.com/?act=login">
+    <input type="hidden" name="act" value="login" />
+    <input type="hidden" name="role" value="al_frame" />
+    <input type="hidden" name="expire" id="quick_expire_input" value="" />
+    <input type="hidden" name="captcha_sid" id="quick_captcha_sid" value="" />
+    <input type="hidden" name="captcha_key" id="quick_captcha_key" value="" />
+    <input type="hidden" name="_origin" value="https://vk.com" />
+    <input type="hidden" name="ip_h" value="cd0447d7391f55d759" />
+    <input type="hidden" name="lg_h" value="58093e3b15403d2639" />
+    <div class="label">Phone or email</div>
+    <div class="labeled"><input type="text" name="email" class="dark" id="quick_email" /></div>
+    <div class="label">Password</div>
+    <div class="labeled"><input type="password" name="pass" class="dark" id="quick_pass" onkeyup="toggle('quick_expire', !!this.value);toggle('quick_forgot', !this.value)" /></div>
+    <input type="submit" class="submit" />
+  </form>
+  <button class="quick_login_button flat_button button_wide" id="quick_login_button">Log in</button>
+  <button class="quick_reg_button flat_button button_wide" id="quick_reg_button" style="" onclick="top.showBox('join.php', {act: 'box', from: nav.strLoc})">Sign up</button>
+  <div class="clear forgot"><div class="checkbox" id="quick_expire" onclick="checkbox(this);ge('quick_expire_input').value=isChecked(this)?1:'';">Don&#39;t remember me</div><a id="quick_forgot" class="quick_forgot" href="/restore" target="_top">Forgot your password?</a></div>
+</div>
+      </div>
+    </div>
+
+    <div id="page_body" class="fl_r " style="width: 795px;">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="wrap2">
+  <div id="wrap1">
+    <div id="content"><div id="profile" class="profile_content">
+
+  <div class="wide_column_right">
+  <div class="narrow_column_wrap">
+    <div class="narrow_column" id="narrow_column">
+      <div class="page_block page_photo" id="">
+  <div class="page_avatar_wrap">
+  <div id="page_avatar" class="page_avatar"><img class="page_avatar_img" src="/images/camera_200.png"  class="profile_no_ava" /></div>
+</div><div class="profile_actions">
+  <div class="guest_actions"><b><a href="/join" class="guest_action_link" onclick="return !showBox('join.php', {act: 'box', from: nav.strLoc}, {}, event)">Join VK now</a></b> to stay in touch with Demon and millions of others.<br>Or <b><a class="guest_action_link" onclick="focusLoginInput()">log in</a></b>, if you have a <b>VK</b> account.</div>
+</div>
+</div>
+    </div>
+  </div>
+  <div class="wide_column_wrap">
+    <div class="wide_column" id="wide_column">
+      <div class="page_block" id="">
+  <div id="page_info_wrap" class="page_info_wrap "><div class="page_top">
+  <h4 class="profile_online"><div id="profile_online_lv" style="display: none;">Online<b class="mob_onl profile_mob_onl unshown" id="profile_mobile_online" onmouseover="mobileOnlineTip(this, {mid: cur.oid, right: 1})" onclick="mobilePromo(); "></b></div> <div id="profile_time_lv">last seen 47 minutes ago</div> </h4>
+  <h2 class="page_name">Demon  Vudu</h2>
+
+</div><div class="profile_info profile_info_short" id="profile_short">
+  <div class="clear_fix profile_info_row ">
+  <div class="label fl_l">Birthday:</div>
+  <div class="labeled"><a href="/search?c[section]=people&c[bday]=4&c[bmonth]=2">February 4</a>, <a href="/search?c[section]=people&c[byear]=1997">1997</a></div>
+</div>
+</div>
+<div class="profile_info profile_info_full" id="profile_full">
+
+</div></div><div class="counts_module"><a class="page_counter" href="#" onclick="return cur.needLoginBox()">
+  <div class="count">1</div>
+  <div class="label">follower</div>
+</a></div>
+</div>  <div class="page_block">
+
+  </div>
+<div class="wall_module" id="profile_wall">
+  <div class="page_block">
+    <h2 class="page_block_h2 ">
+  <ul class="ui_tabs clear_fix page_tabs_hidden"onmouseover="uiTabs.tryInit(this)"  id="wall_tabs">
+    <li>
+  <a href="/wall408323065" class="ui_tab ui_tab_sel" onclick="return wall.switchWall(this, event, 'all');">
+    All posts
+  </a>
+</li><li class="page_wall_no_posts">
+  <a href="/wall408323065" class="ui_tab ui_tab_sel" onclick="return wall.switchWall(this, event, 'all');">
+    No posts yet
+  </a>
+</li><li class="ui_tab_search_wrap">
+  <a class="ui_tab_plain ui_tab_search" onclick="return uiTabs.showSearch(this, event);" href="/wall408323065?search=1"><span class="blind_label">Search</span></a>
+  <div class="ui_search ui_search_field_empty _wrap">
+  <div class="ui_search_input_block">
+    <div class="ui_search_reset" onclick="return uiSearch.reset(this, false, event);">
+      <span class="blind_label">Cancel</span>
+    </div>
+
+    <input type="text" class="ui_search_field _field" id="wall_search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"  placeholder="Enter a word or phrase here.." />
+
+  </div>
+  <div class="ui_search_filters_pane" style="display: none;">
+    <div class="ui_search_filters"></div>
+    <div class="ui_search_filters_reset" onclick="return uiSearch.removeAllFilters(this);"></div>
+  </div>
+</div>
+</li>
+    <div class="ui_tabs_slider _ui_tabs_slider"></div>
+  </ul>
+</h2>
+  </div>
+  <div id="page_wall_posts" class="wall_posts all"><input type="hidden" id="page_wall_count_all" value="0" /><input type="hidden" id="page_wall_count_own" value="0" /><div class="page_block no_posts">
+  <div class="no_posts_cover"></div>
+  This wall is empty.
+</div></div><div id="page_search_posts" class="wall_posts wall_posts_search"></div><button class="flat_button secondary_dark more_link" id="wall_more_link" onclick="wall.showMore(10);">previous posts</button>
+</div>
+    </div>
+  </div>
+</div>
+</div></div>
+  </div>
+</div></div>
+    </div>
+
+    <div id="footer_wrap" class="footer_wrap fl_r" style="width: 795px;"><div class="footer_nav" id="bottom_nav">
+  <div class="footer_copy fl_l"><a href="/about">VK</a> &copy; 2017</div>
+  <div class="footer_lang fl_r">Language:<a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: 'd478a8670811b40344'})">English</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 0, hash: 'd478a8670811b40344'})">�������</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 1, hash: 'd478a8670811b40344'})">���������</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">all languages �</a></div>
+  <div class="footer_links">
+    <a class="bnav_a" href="/about">about</a>
+    <a class="bnav_a" href="/support?act=home" style="display: none;">help</a>
+    <a class="bnav_a" href="/terms">terms</a>
+    <a class="bnav_a" href="/ads" style="display: none;">advertising</a>
+
+    <a class="bnav_a" href="/dev">developers</a>
+    <a class="bnav_a" href="/jobs" style="display: none;">jobs</a>
+  </div>
+</div>
+
+<div class="footer_bench clear">
+
+</div></div>
+    <div class="clear"></div>
+  </div>
+</div></div><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2579437;js=na" style="border:0;" height="1" width="1" />
+</div></noscript></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    if (parent && parent != window && (browser.msie || browser.opera || browser.mozilla || browser.chrome || browser.safari || browser.iphone)) {
+      document.getElementsByTagName('body')[0].innerHTML = '';
+    } else {
+      domReady();
+      updateMoney(0);
+if (browser.iphone || browser.ipad || browser.ipod) {
+  setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
+}var qf = ge('quick_login_form'), ql = ge('quick_login'), qe = ge('quick_email'), qp = ge('quick_pass');
+var qlb = ge('quick_login_button'), prgBtn = qlb;
+
+var qinit = function() {
+  setTimeout(function() {
+    ql.insertBefore(ce('div', {innerHTML: '<iframe class="upload_frame" id="quick_login_frame" name="quick_login_frame"></iframe>'}), qf);
+    qf.target = 'quick_login_frame';
+  }, 1);
+}
+
+if (window.top && window.top != window) {
+  window.onload = qinit;
+} else {
+  setTimeout(qinit, 0);
+}
+
+qf.onsubmit = function() {
+  if (!ge('quick_login_frame')) return false;
+  if (!trim(qe.value)) {
+    notaBene(qe);
+    return false;
+  } else if (!trim(qp.value)) {
+    notaBene(qp);
+    return false;
+  }
+  lockButton(window.__qfBtn = prgBtn);
+  prgBtn = qlb;
+  clearTimeout(__qlTimer);
+  __qlTimer = setTimeout(loginSubmitError, 30000);
+  domFC(domPS(qf)).onload = function() {
+    clearTimeout(__qlTimer);
+    __qlTimer = setTimeout(loginSubmitError, 2500);
+  }
+  return true;
+}
+
+window.loginSubmitError = function() {
+  showFastBox('Warning', 'Unable to complete encrypted authorization. This can happen if your date and time settings are not configured correctly on your system. Please check your date &amp; time settings and restart the browser.');
+}
+window.focusLoginInput = function() {
+  scrollToTop(0);
+  notaBene('quick_email');
+}
+window.changeQuickRegButton = function(noShow) {
+  if (noShow) {
+    hide('top_reg_link', 'quick_reg_button');
+  } else {
+    show('top_reg_link', 'quick_reg_button');
+  }
+  toggle('top_switch_lang', noShow && window.langConfig && window.langConfig.id != 3);
+}
+window.submitQuickLoginForm = function(email, pass, opts) {
+  setQuickLoginData(email, pass, opts);
+  if (opts && opts.prg) prgBtn = opts.prg;
+  if (qf.onsubmit()) qf.submit();
+}
+window.setQuickLoginData = function(email, pass, opts) {
+  if (email !== undefined) ge('quick_email').value = email;
+  if (pass !== undefined) ge('quick_pass').value = pass;
+  var params = opts && opts.params || {};
+  each (params, function(i, v) {
+    var el = ge('quick_' + i) || ge('quick_login_' + i);;
+    if (el) {
+      val(el, params[i]);
+    } else {
+      qf.appendChild(ce('input', {type: 'hidden', name: i, id: 'quick_login_' + i, value: v}));
+    }
+  });
+}
+
+if (qlb) {
+  qlb.onclick = function() { if (qf.onsubmit()) qf.submit(); };
+}
+
+if (browser.opera_mobile) show('quick_expire');
+
+if (1) {
+  hide('support_link_td', 'top_support_link');
+}
+var ts_input = ge('ts_input');
+if (ts_input) {
+  placeholderSetup(ts_input, {back: false, reload: true, phColor: '#8fadc8'});
+}
+TopSearch.init();;shortCurrency();
+setTimeout(zNav.pbind({}, {queue:1}), 0);
+handlePageParams({"id":0,"pads":1,"level":2,"loc":"?subdir=vo0d0os","wrap_page":1,"width":960,"width_dec":165,"width_dec_footer":165,"body_class":"firefox ","counters":"","pvbig":0,"pvdark":1});addEvent(document, 'click', onDocumentClick);
+addLangKeys({"global_apps":"Apps","global_friends":"Friends","global_communities":"Communities","head_search_results":"Search results","global_chats":"Conversations","global_show_all_results":"Show all results","global_news_search_results":"Search results by news","global_emoji_cat_recent":"Frequently Used","global_emoji_cat_1":"Faces","global_emoji_cat_2":"Animals &amp; Nature","global_emoji_cat_3":"Hands &amp; People","global_emoji_cat_4":"Food &amp; Drinks","global_emoji_cat_5":"Activity","global_emoji_cat_6":"Travel &amp; Transport","global_emoji_cat_7":"Objects","global_emoji_cat_8":"Symbols","global_emoji_cat_9":"Flags"}, true);
+addTemplates({"_":"_"});uiSearch.init('wall_search', { in_tabs:true,onFocus:addClass.pbind('wide_column', 'search_focused'),onBlur:removeClass.pbind('wide_column', 'search_focused'),onEnter:Wall.onWallSearchSend });
+cur.needLoginBox = function() {
+  setTimeout(showFastBox('Warning', 'Please log in or sign up to view this page.').hide, 2000);
+  return false;
+};
+cur._regBar = "<b><a href=\"\/join\" class=\"reg_bar_link\" onclick=\"return !showBox('join.php', {act: 'box', from: nav.strLoc}, {}, event)\">Join VK now<\/a><\/b> to stay in touch with Demon and millions of others. Or simply <b><a class=\"reg_bar_link\" onclick=\"focusLoginInput()\">log in<\/a><\/b>.";
+cur.lang = extend(cur.lang || {}, {
+  wall_my_friends_only: 'Only your friends can see this post',
+  change_current_info: 'set a status message',
+  share_current_info: 'Share',
+  wall_link_label: 'Link',
+  create_poll: 'Poll',
+  dont_attach: 'Remove attachment',
+  attachments_limit: ["","A post can only have %s attachment.","A post can only have %s attachments."],
+  publish_postponed_title: 'Confirmation required',
+  publish_postponed_confirm: 'Are you sure you want to publish your post now?',
+  publish_postponed_btn: 'Publish',
+  profile_gifts_hide_button: 'Hide Gifts',
+  profile_sure_hide_gifts: 'Are you sure you want to <b>hide your gifts</b>?<br><br>You can always return them to your profile in <b>{link}My Settings{/link} in the </b>{link1}Privacy{/link1} tab.',
+  global_store_stickers: 'Stickers store',
+  global_store_stickers_new_available: 'New stickers available',
+  global_link_choose_own_photo: 'Choose your own image',
+  global_link_remove_photo: 'Delete image',
+});
+Profile.init({"user_id":408323065,"loc":"vo0d0os","back":"Demon Vudu","reply_names":{"_":false},"max_post_len":280,"post_hash":"e22bbf4269cd07d373","media_types":false,"wall_type":"all","wall_no":"No posts yet","wall_counts":["","%s post","%s posts"],"all_link":"show Demon&#39;s posts","own_link":"show all posts","rmedia_types":[["photo","Photo"],["video","Video"],["audio","Audio"],["doc","Document"],["note","Note"],["map","Map"],["graffiti","Graffiti"],["market","Product",{"tt_text":"Now you can <a onclick=\"showBox('al_market.php', {act: 'a_edit_item_box', attach: 1, from_wall: 1}); return false\">attach a product<\/a> to your post.","tt_words":["sell","sell","sells","selling","sale","sold","give","gives","gave","given","for","free","rent","for","rent","rental","rents","rented","renting","give for free","giving for free","gives for free","for free","for rent","rent room","rent a room","renting a room","rents room","rents a room","renting room"]}],["postpone","Timer",{"lang":{"profile_choose_timer":"Timer","profile_wall_postpone_at":"at","profile_wall_postpone_btn":"Enqueue","export_to_twitter":"Export to Twitter","export_to_facebook":"Export to Facebook","friends_only":"Friends only"},"date":1486450909}],["mark_as_ads","This is an ad",{"lang":{"global_ads_wall_post_mark_as_ads_action":"This is an ad"}}]],"share":{"url":false,"hash":false,"rhash":false,"timehash":false,"allow_custom_photo":true,"allow_edit_title":true,"max_title_len":100},"upload":false,"mail_cache":"","fr_click":"","ciAudioTpl":"<div class=\"page_current_audio\">\n  <div class=\"current_audio_cnt %cnt_class%\" onmouseover=\"Page.audioListenersOver(this, cur.oid)\" onclick=\"Page.showAudioListeners(cur.oid, event)\">%count%<\/div>\n  <div class=\"current_audio_wrap\">\n    <a class=\"current_audio\"%attrs%>\n      <span class=\"current_audio_icon\"><\/span>%text%\n    <\/a>\n  <\/div>\n<\/div>","ciAudioTip":"Demon is listening to this track","ciAudioHash":"644e4b263008d7e79f","ciAppTip":"Demon is now playing this game"});cur.wallVideos={"wall_408323065":{"title":"Video on Demon&#39;s wall","list":[],"id":"wall_408323065"}};
+cur.module = 'profile';Page.initGifAutoplay();Page.initVideoAutoplay();
+;(function (d, w) {
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+    }
+  </script>
+</body>
+
+</html>
